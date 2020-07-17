@@ -10,3 +10,132 @@ Warn about uninitialized values.
 -- Generating done
 -- Build files have been written to: /home/msherman/ess/jurassic/build
 ninja: no work to do.
+Warn about uninitialized values.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msherman/ess/jurassic/build
+ninja: no work to do.
+Warn about uninitialized values.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msherman/ess/jurassic/build
+ninja: no work to do.
+Warn about uninitialized values.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msherman/ess/jurassic/build
+ninja: no work to do.
+Warn about uninitialized values.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msherman/ess/jurassic/build
+ninja: no work to do.
+Warn about uninitialized values.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msherman/ess/jurassic/build
+ninja: no work to do.
+Warn about uninitialized values.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msherman/ess/jurassic/build
+ninja: no work to do.
+Warn about uninitialized values.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msherman/ess/jurassic/build
+ninja: no work to do.
+Warn about uninitialized values.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msherman/ess/jurassic/build
+ninja: no work to do.
+Warn about uninitialized values.
+-- The C compiler identification is GNU 4.8.5
+-- Check for working C compiler using: Ninja
+-- Check for working C compiler using: Ninja -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+CMake Error: File /home/msherman/ess/jurassic/include/version.h.in does not exist.
+CMake Error at CMakeLists.txt:26 (configure_file):
+  configure_file Problem configuring file
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/msherman/ess/jurassic/build/CMakeFiles/CMakeOutput.log".
+Warn about uninitialized values.
+CMake Error: File /home/msherman/ess/jurassic/include/version.h.in does not exist.
+CMake Error at product/CMakeLists.txt:9 (configure_file):
+  configure_file Problem configuring file
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/msherman/ess/jurassic/build/CMakeFiles/CMakeOutput.log".
+Warn about uninitialized values.
+CMake Error: File /home/msherman/ess/jurassic/include/version.h.in does not exist.
+CMake Error at product/raptor/CMakeLists.txt:3 (configure_file):
+  configure_file Problem configuring file
+
+
+CMake Error: File /home/msherman/ess/jurassic/include/version.h.in does not exist.
+CMake Error at product/trex/CMakeLists.txt:3 (configure_file):
+  configure_file Problem configuring file
+
+
+CMake Error: File /home/msherman/ess/jurassic/include/version.h.in does not exist.
+CMake Error at product/triceratops/CMakeLists.txt:3 (configure_file):
+  configure_file Problem configuring file
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/msherman/ess/jurassic/build/CMakeFiles/CMakeOutput.log".
+Warn about uninitialized values.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msherman/ess/jurassic/build
+ninja: no work to do.
+Warn about uninitialized values.
+CMake Error: File /home/msherman/ess/jurassic/include/version.h.in does not exist.
+CMake Error at product/triceratops/CMakeLists.txt:3 (configure_file):
+  configure_file Problem configuring file
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/msherman/ess/jurassic/build/CMakeFiles/CMakeOutput.log".
+Warn about uninitialized values.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msherman/ess/jurassic/build
+ninja: no work to do.
+Warn about uninitialized values.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msherman/ess/jurassic/build
+ninja: no work to do.
+Warn about uninitialized values.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msherman/ess/jurassic/build
+ninja: no work to do.
+Warn about uninitialized values.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msherman/ess/jurassic/build
+ninja: no work to do.
+Warn about uninitialized values.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msherman/ess/jurassic/build
+ninja: no work to do.
+Warn about uninitialized values.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msherman/ess/jurassic/build
+ninja: no work to do.
+Warn about uninitialized values.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/msherman/ess/jurassic/build
+ninja: no work to do.
